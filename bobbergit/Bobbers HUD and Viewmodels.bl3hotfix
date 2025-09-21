@@ -11,14 +11,14 @@
 
 
 # Default
-SparkPatchEntry,(1,1,0,),/Game/GameData/Camera/CameraMode_Default.CameraMode_Default:Behaviors_CameraBehavior_DefaultViewWeaponOffset,LocationOffset,0,,(x=15,y=5,z=-5)
+SparkPatchEntry,(1,1,0,),/Game/GameData/Camera/CameraMode_Default.CameraMode_Default:Behaviors_CameraBehavior_DefaultViewWeaponOffset,LocationOffset,0,,(x=40,y=5,z=-5)
 
 # Sliding
-SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/Sliding/CameraMode_Slide.CameraMode_Slide:Behaviors_CameraBehavior_DefaultViewWeaponOffset,LocationOffset,0,,(x=15,y=5,z=-5)
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/Sliding/CameraMode_Slide.CameraMode_Slide:Behaviors_CameraBehavior_DefaultViewWeaponOffset,LocationOffset,0,,(x=40,y=5,z=-5)
 
 # Downstate
-SparkPatchEntry,(1,1,0,),/Game/GameData/Camera/CameraMode_DownState.CameraMode_DownState:Behaviors_CameraBehavior_DefaultViewWeaponOffset,LocationOffset,0,,(x=15,y=5-,z=-5)
+SparkPatchEntry,(1,1,0,),/Game/GameData/Camera/CameraMode_DownState.CameraMode_DownState:Behaviors_CameraBehavior_DefaultViewWeaponOffset,LocationOffset,0,,(x=40,y=5-,z=-5)
 
 #Fix for Amara Blitz
-SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/Melee/CameraMode_Melee.CameraMode_Melee:Behaviors_CameraBehavior_DefaultViewWeaponOffset,LocationOffset,0,,(x=15,y=-5,z=-5)
+SparkPatchEntry,(1,1,0,),/Game/PlayerCharacters/_Shared/_Design/Melee/CameraMode_Melee.CameraMode_Melee:Behaviors_CameraBehavior_DefaultViewWeaponOffset,LocationOffset,0,,(x=40,y=-5,z=-5)
 
